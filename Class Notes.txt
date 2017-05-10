@@ -237,9 +237,9 @@ function calculateTotalPrice (price){
 }
 
 
-
-Assignment
-----------
+ 
+Assignment 1:
+------------
 1. Create an object with following shape (lets say it as a product)
 
 name
@@ -255,7 +255,38 @@ Calculation:
 
 Say Price of a product is sum of BasePrice + 4.5% vat + 2.5% service tax
 
-3. Create function that calculates total price of a basket. This function takes array (basket of products) as parameter and calculates the total of all salePrice and returns the total.
+4. Create function that calculates total price of a basket. This function takes array (basket of products) as parameter and calculates the total of all salePrice and returns the total.
+
+Assignment 2:
+------------
+1. Create a construtor function that creates Product object with following members:
+
+Properties:
+-----------
+name
+description
+price
+salePrice
+
+methods:
+--------
+calculateSalePrice
+print
+
+2. Create a function that takes date string as parameter and provides the output as below
+
+Input : 2010-03-03
+
+Output :
+Year : 2010
+Month : March
+Day : 03
+Week : 9
+seconds passed from 1970: 1267574400
+Days till today: 2624 days
+Years_Months_Days: 7 years, 2 months, 6 days 
+
+
 
 
 
