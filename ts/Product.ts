@@ -12,12 +12,6 @@ class Product{
     get Price(){
         return this.price;
     }
-
-    get Price(){
-        return this.price;
-    }
-
-
 }
 
 var p = new Product();
